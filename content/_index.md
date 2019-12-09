@@ -40,11 +40,9 @@ sections:
     spotlights:
       - home_img_path: images/pic01.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Magna primis lobortis
-          sed ullamcorper
+          Apps designed by Smart Apps are user friendly and easy to use due to
+          its simple designs.
+        title: Simple but effective designing of apps
       - home_img_path: images/pic02.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
