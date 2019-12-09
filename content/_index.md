@@ -26,7 +26,7 @@ banner:
     has_arrow: true
     is_scrolly: true
     label: learn more
-    url: '#one'
+    url: '#two'
   subtitle: >-
     Smart Apps is a app development and design expert company which will provide
     superior mobile apps solutions and services to clients. It will driven by
