@@ -22,7 +22,7 @@ subtitle: >-
 
 
   5. Reputation Risks
-background_style: style3
+background_style: style2
 menu:
   main:
     name: Risk
