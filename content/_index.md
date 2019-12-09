@@ -84,17 +84,6 @@ sections:
           sed condimentum
     title: Spotlights Section
     type: spotlights
-  - background_style: style3
-    component: features.html
-    features: []
-    section_id: three
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    title: Accumsan mus tortor nunc aliquet
-    type: features
 menu:
   main:
     name: Home
