@@ -1,5 +1,3 @@
 actions:
-  - label: Sign Up
-    url: /generic
-  - label: Log In
-    url: /generic
+  - label: Github
+    url: 'https://github.com/19056371/smart-apps'
