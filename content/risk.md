@@ -9,19 +9,15 @@ subtitle: >-
   types of risks which are described below.
 
 
-  1. Strategic Risk
+  *  Strategic Risk
 
+  *  Compliance Risks
 
-  2. Compliance Risks
+  *  Operational Risks
 
+  *  Financial Risks
 
-  3. Operational Risks
-
-
-  4. Financial Risks
-
-
-  5. Reputation Risks
+  *  Reputation Risks
 background_style: style2
 menu:
   main:
