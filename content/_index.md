@@ -34,29 +34,6 @@ banner:
     company.
   title: smart apps
 sections:
-  - background_style: style1
-    component: icons.html
-    feature_icons:
-      - icon: fa-diamond
-        style: style1
-        title: Lorem
-      - icon: fa-heart-o
-        style: style2
-        title: Ipsum
-      - icon: fa-code
-        style: style3
-        title: Dolor
-    section_id: one
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
-    type: icons
   - background_style: style2
     component: spotlights.html
     section_id: two
