@@ -1,6 +1,6 @@
 ---
 title: vision
-subtitle: '   Vast profit that we consider, we work for relations. We provide the best service experience in the organization by taking care of every single need of yours.'
+subtitle: ''
 background_style: style2
 menu:
   main:
@@ -8,4 +8,4 @@ menu:
     weight: 2
 layout: page
 ---
-
+>    Vast profit that we consider, we work for relations. We provide the best service experience in the organization by taking care of every single need of yours.
