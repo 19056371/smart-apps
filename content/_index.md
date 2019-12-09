@@ -42,21 +42,17 @@ sections:
         text: >-
           Apps designed by Smart Apps are user friendly and easy to use due to
           its simple designs.
-        title: Simple but effective designing of apps
+        title: 'Simple but effective '
       - home_img_path: images/pic02.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Tortor dolore feugiat
-          elementum magna
+          Smart Apps uses latest equipment and services with great
+          infrastructure to develop world class apps
+        title: resources and infrastructure
       - home_img_path: images/pic03.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Augue eleifend aliquet
-          sed condimentum
+          our team is experienced and dedicated and capable of using the latest
+          technologies.
+        title: experienced development team
     title: Spotlights Section
     type: spotlights
 menu:
