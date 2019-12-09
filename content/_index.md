@@ -18,7 +18,7 @@ banner:
       is_scrolly: false
       label: Marketing
       url: /Marketing
-    - is_primary: false
+    - is_primary: true
       is_scrolly: false
       label: Finance
       url: /Finance
