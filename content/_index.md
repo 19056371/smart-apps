@@ -22,6 +22,10 @@ banner:
       is_scrolly: false
       label: Finance
       url: /Finance
+    - is_primary: true
+      is_scrolly: false
+      label: Github
+      url: /Github
   bottom_link:
     has_arrow: true
     is_scrolly: true
