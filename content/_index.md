@@ -25,7 +25,7 @@ banner:
   bottom_link:
     has_arrow: true
     is_scrolly: true
-    label: Learn More
+    label: learn more
     url: '#one'
   subtitle: >-
     Smart Apps is a app development and design expert company which will provide
@@ -86,37 +86,7 @@ sections:
     type: spotlights
   - background_style: style3
     component: features.html
-    features:
-      - icon: fa-paper-plane-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Arcu accumsan
-      - icon: fa-laptop
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Ac Augue Eget
-      - icon: fa-code
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mus Scelerisque
-      - icon: fa-headphones
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mauris Imperdiet
-      - icon: fa-heart-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Aenean Primis
-      - icon: fa-flag-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Tortor Ut
+    features: []
     section_id: three
     subtitle: >-
       Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
@@ -125,23 +95,6 @@ sections:
       fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
     title: Accumsan mus tortor nunc aliquet
     type: features
-  - actions:
-      - is_primary: true
-        is_scrolly: false
-        label: Activate
-        url: /generic
-      - is_primary: false
-        is_scrolly: false
-        label: Learn More
-        url: /generic
-    background_style: style4
-    component: cta.html
-    section_id: cta
-    text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
-    title: Arcue ut vel commodo
-    type: cta
 menu:
   main:
     name: Home
