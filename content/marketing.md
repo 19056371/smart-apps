@@ -19,7 +19,7 @@ subtitle: >-
 
 
   Websites
-background_style: style5
+background_style: style4
 menu:
   main:
     name: Marketing
